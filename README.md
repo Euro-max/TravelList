@@ -1,3 +1,12 @@
+TravelList App where the user can enter what he needs for a faraway trip. This app is a simple implementation of React Basics:
+Components
+JSX
+Props
+UseState and Controlled Elements
+Events
+Deriving State
+Lifting up a State
+Modern JavaScript ES6 concepts
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
